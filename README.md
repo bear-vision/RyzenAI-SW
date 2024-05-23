@@ -1,4 +1,4 @@
-# Ryzen™ AI Software 
+# Ryzen™ AI Software - Bear.
 
 ## Introduction
 
